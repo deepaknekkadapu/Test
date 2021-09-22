@@ -1,0 +1,6 @@
+1. git --version -> returns the version of the git
+2. git add filename/s -> add the file/files to the staging area.
+3. git add . --> Add all the files to the staging area.
+4. git commit -m -> Sends the files to the local repository and -m for message which is commit message
+5. git push -u origin master -> Pushes the files from local repo to remote repo (Github or Bitbucket)
+6. git pull -> pulls all the latest changes from remote repo to local repo
